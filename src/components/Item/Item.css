@@ -1,0 +1,54 @@
+.tarjeta {
+  background: rgba(15, 15, 26, 0.85); /* más oscuro */
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+
+  /* bordes redondeados solo en las esquinas superiores, top-left | top-right | bottom-right | bottom-left */
+  /* border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%; */
+border-radius: 50px 50px 50px 6px;
+  overflow: hidden;
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
+  max-width: 500px;
+  margin: auto;
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+
+.tarjeta:hover {
+  transform: translateY(-8px);
+  box-shadow: 
+    0 20px 40px rgba(0, 0, 0, 0.6),
+    0 0 20px rgba(168, 85, 247, 0.3);
+}
+
+.tarjeta img {
+  width: 100%;
+  aspect-ratio: 4 / 3; /* mantiene la proporción 4:3 sin importar el tamaño del contenedor */
+  object-fit: contain;  /* mantiene la proporción sin recortar y la imagen completa */
+  display: block;
+  transition: transform 0.4s ease;
+  padding: 12px;
+  background: #09090f;
+}
+
+.tarjeta__contenido {
+  padding: 20px;
+}
+
+.tarjeta__nombre {
+  font-size: 1.1rem;
+  margin-bottom: 8px;
+  color: #eaeaf0;
+}
+
+.tarjeta__precio {
+  font-weight: bold;
+  color: #a855f7;
+  font-size: 1rem;
+}
+
+.tarjeta__descripcion {
+  font-size: 0.9rem;
+  color: #cbd5e1;
+  margin-top: 10px;
+  line-height: 1.5;
+}

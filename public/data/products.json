@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Luminaria Abejas y Flor",
+    "description": "Luminaria artesanal en vitraux con diseño de abejas y flor en tonos cálidos. Ideal para crear una atmósfera acogedora y natural.",
+    "price": 95.00,
+    "image": "/img/luminaria-abejas.png"
+  },
+  {
+    "id": 2,
+    "name": "Colibrí Multicolor",
+    "description": "Figura decorativa en vitraux con forma de colibrí, elaborada en vidrios de colores vibrantes. Perfecta para colgar y dar vida a cualquier espacio.",
+    "price": 55.00,
+    "image": "/img/colibri-multicolor.png"
+  },
+  {
+    "id": 3,
+    "name": "Espejo Margaritas",
+    "description": "Espejo decorativo con marco artístico en vitraux, adornado con delicadas margaritas blancas y detalles en verde.",
+    "price": 120.00,
+    "image": "/img/espejo-margaritas.png"
+  },
+  {
+    "id": 4,
+    "name": "Estrella Geométrica Azul y Amarilla",
+    "description": "Composición geométrica en vitraux con combinación de azules intensos y amarillos luminosos. Ideal como pieza central decorativa.",
+    "price": 60.00,
+    "image": "/img/estrella-azul-amarilla.png"
+  },
+  {
+    "id": 5,
+    "name": "Luminaria Árbol",
+    "description": "Luminaria en vitraux con diseño de árbol y follaje en tonos verdes. Aporta calidez y un toque orgánico al ambiente.",
+    "price": 100.00,
+    "image": "/img/luminaria-arbol.png"
+  },
+  {
+    "id": 6,
+    "name": "Luminaria Azul",
+    "description": "Luminaria en vitraux con diseño abstracto en tonos azules. Aporta calidez y un toque mágico al ambiente.",
+    "price": 100.00,
+    "image": "/img/luminaria-azul.png"
+  },
+  {
+    "id": 7,
+    "name": "Luminaria Cálidos",
+    "description": "Luminaria en vitraux con diseño abstracto en tonos cálidos. Aporta un toque cálido al ambiente.",
+    "price": 100.00,
+    "image": "/img/luminaria-calidos.png"
+  },
+  {
+    "id": 8,
+    "name": "Mesa Ratona Artesanal",
+    "description": "Mesa ratona con diseño moderno abstracto en venecitas, gemas y espejos. Aporta un toque sofisticado y único al ambiente.",
+    "price": 100.00,
+    "image": "/img/mesa-ratona.png"
+  },
+  {
+    "id": 9,
+    "name": "Móvil Tiffany con Mariposas",
+    "description": "Móvil multicolor con diseño de mariposas. Técnica vitraux Tiffany con vidrios artesanales. Aporta reflejos multicolor a los ambientes.",
+    "price": 100.00,
+    "image": "/img/movil-mariposas.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Orca Vitraux Tiffany",
+    "description": "Vitraux con diseño de orca en tonos azules. Vitraux Tiffany con vidrios importados. Aporta luminosidad en tonos fríos al ambiente.",
+    "price": 100.00,
+    "image": "/img/orca-vitraux.png"
+  },
+  {
+    "id": 11,
+    "name": "Reloj Cuadrado en Tiffany",
+    "description": "Reloj artesanal Tiffany en tonos cálidos. Aporta calidez y un toque orgánico al ambiente.",
+    "price": 100.00,
+    "image": "/img/reloj-rojo.png"
+  },
+  {
+    "id": 12,
+    "name": "Vitral para Puerta de Entrada",
+    "description": "Vitral en técnica mixta con diseño de colibrí y follaje en tonos variados. Aporta luminosidad y sofisticación a la entrada de la casa.",
+    "price": 100.00,
+    "image": "/img/puerta-vitraux.png"
+  }
+]
