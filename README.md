@@ -1,3 +1,34 @@
+Dev: Isabel Mesina
+
+# e-commerce React
+Aplicación de práctica de un e-commerce con React y Vite para el curso de React de Talento Tech del Ministerio de Educación del Gob de la Ciudad
+
+## Demo: https://talento-react-project.netlify.app/
+
+## Tecnologías
+React
+Vite
+CSS
+HTML
+
+## Instalación
+
+```bash
+git clone https://github.com/isamess/talento-react-project.git
+cd talento-react-project
+npm install
+npm run dev
+
+## Funcionalidades
+Listado de Productos
+Carrito de Compras
+Tarjeta de Producto
+Detalle de Producto
+
+![Home](/public/img/screenshot.png)
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

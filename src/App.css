@@ -2,3 +2,6 @@
 :root {
   --header-height: 115px;
 }
+main {
+  padding-top: 120px; /* altura del nav */
+}
