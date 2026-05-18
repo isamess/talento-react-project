@@ -7,7 +7,7 @@
   /* border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%; */
 border-radius: 50px 50px 50px 6px;
   overflow: hidden;
-  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 15px 35px rgba(171, 84, 237, 0.5);
   max-width: 500px;
   margin: auto;
   transition: transform 0.4s ease, box-shadow 0.4s ease;
@@ -32,12 +32,14 @@ border-radius: 50px 50px 50px 6px;
 
 .tarjeta__contenido {
   padding: 20px;
+  
 }
 
 .tarjeta__nombre {
   font-size: 1.1rem;
   margin-bottom: 8px;
   color: #eaeaf0;
+
 }
 
 .tarjeta__precio {
@@ -51,4 +53,5 @@ border-radius: 50px 50px 50px 6px;
   color: #cbd5e1;
   margin-top: 10px;
   line-height: 1.5;
+  text-decoration: none;
 }

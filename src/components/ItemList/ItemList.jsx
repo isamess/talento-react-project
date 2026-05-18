@@ -11,20 +11,13 @@ export const ItemList = ({products}) => {
         <div className= "products-container">
             {products.map((product) => (
                 //pongo el link acá para que cada producto sea un link a su detalle
-                <Link to={`/product/${product.id}`} key={product.id}>
+                <Link  to={`/product/${product.id}`} key={product.id} className="link">
 
                     <Item { ...product }/>
                 </Link>
             ))}          
         </div>
 
-
-  //        <div>
-  //   <h1>TEST</h1>
-  //   {products.map((p, i) => (
-  //     <p key={i}>{JSON.stringify(p)}</p>
-  //   ))}
-  // </div>
 
     );
 };
