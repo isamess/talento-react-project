@@ -25,7 +25,7 @@ Carrito de Compras
 Tarjeta de Producto
 Detalle de Producto
 
-![Home](screenshot/home.png)
+![Home](screenshots/home.png)
 https://github.com/isamess/talento-react-project/blob/main/screenshots/home.png
 
 
