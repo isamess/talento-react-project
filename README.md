@@ -13,7 +13,6 @@ HTML
 
 ## Instalación
 
-```bash
 git clone https://github.com/isamess/talento-react-project.git
 cd talento-react-project
 npm install
@@ -26,8 +25,7 @@ Tarjeta de Producto
 Detalle de Producto
 
 ![Home](screenshots/home.png)
-![Home] (./blob/main/screenshots/home.png)
-![Home](https://raw.githubusercontent.com/isamess/talento-react-project/main/screenshots/home.png)
+![Home](https://github.com/isamess/talento-react-project/blob/main/screenshots/home.png)
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
