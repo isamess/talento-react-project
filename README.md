@@ -25,7 +25,7 @@ Carrito de Compras
 Tarjeta de Producto
 Detalle de Producto
 
-![Home](/public/img/screenshot.png)
+![Home](screenshot/home.png)
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
