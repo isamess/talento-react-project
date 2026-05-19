@@ -26,7 +26,7 @@ Tarjeta de Producto
 Detalle de Producto
 
 ![Home](screenshots/home.png)
-https://github.com/isamess/talento-react-project/blob/main/screenshots/home.png
+![Home](https://raw.githubusercontent.com/isamess/talento-react-project/main/screenshots/home.png)
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
