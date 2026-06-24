@@ -1,0 +1,15 @@
+.signature {
+  font-style: italic;
+  text-align: right;
+  margin-top: 40px;
+  margin-right: 40px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+}

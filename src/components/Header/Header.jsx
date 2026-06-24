@@ -6,6 +6,7 @@ import { Link } from 'react-router-dom';
 
 
 
+
 export const Header = () => {
     return (
        <header className='header'>
@@ -15,7 +16,6 @@ export const Header = () => {
                 <span className='header__span'>El Kultrun de Isa</span>
             </Link>
         </div>
-        
             
             <Nav/> 
        
