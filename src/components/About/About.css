@@ -4,12 +4,21 @@
   margin-top: 40px;
   margin-right: 40px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color:blueviolet
 }
 
 .container {
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
-  font-family: 'Arial', sans-serif;
-  line-height: 1.6;
+  font-family: 'Georgia', sans serif;
+  line-height: 2;
+   box-shadow: 
+    0 20px 40px rgba(104, 1, 178, 0.6),
+    0 0 20px rgba(168, 85, 247, 0.3);
+}
+.title {
+   font-family: 'Georgia', sans serif;
+   color:blueviolet
+
 }
